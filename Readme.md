@@ -3,7 +3,7 @@
 This project combines **Large Language Models (LLMs)** with **graph databases** to create a powerful **Retrieval-Augmented Generation (RAG)** pipeline.  
 It enables users to query a **Neo4j knowledge graph** in **natural language**, automatically generates optimized **Cypher queries**, and visualizes results in real time. 
 
-To access the project -> https://knowledge-graph-ragwithneo4j-test.streamlit.app
+To access the project -> https://knowledgegraph-ragwithneo4j-boc8b7xtxx7h2zemgek2bm.streamlit.app/
 
 The project leverages:
 - **Neo4j** for graph storage and querying.
