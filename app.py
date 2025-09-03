@@ -30,7 +30,7 @@ from langchain_community.chains.graph_qa.cypher import GraphCypherQAChain
 URI = "neo4j+s://f130631d.databases.neo4j.io"
 USER = "neo4j"
 PASSWORD = "YWbr8AJPpup1G3tmlrgXp1iw0B_VKXRpk_JwPHrG-WI"
-os.environ["GOOGLE_API_KEY"] = "AIzaSyA5ApL2ltwbFn4GQShKTz_t35744kkq8dg"
+os.environ["GOOGLE_API_KEY"] = "AIzaSyANdfOSp5L8a7cNU5ostjrHve5AoKNqGyo"
 
 
 # ====== Gemini LLM config ======
@@ -187,3 +187,4 @@ with col2:
             components.html(html_content, height=600, scrolling=True)
         else:
             st.info("Please ask a question first to generate the graph data.")
+
