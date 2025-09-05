@@ -188,3 +188,5 @@ with col2:
         else:
             st.info("Please ask a question first to generate the graph data.")
 
+def print_world():
+    print("Hello")
